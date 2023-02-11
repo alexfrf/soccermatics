@@ -1,0 +1,21 @@
+This is a graded exercise. Deadline is strict.
+It is summer of 2018. The head scout of your club (the one which group you are in) is looking to sign a player to improve your defence. It doesn't need to be a defender. But it does need to be a player who will strength some aspect of your defensive play.
+She is interested in hearing about a variety of methods for scouting players, so she asks you to create a player radar. You should primarily use the Wyscout data, but can also use Transfermarkt to find the prices of players in summer 2018.
+You should do the following steps:
+1, Implement a number of defensive metrics based on statistical scouting (lesson 3) and valuing actions (lesson 4). Four to six metrics is about right. Create player radars for your own team's players in the position you aim to replace (one of goalkeeper, defender, midfielder, forward). Write a simple non-technical text (at most one page) explaining your radars to the scout and what assumptions it makes.  Points will be awarded for the novelty of the metric, the clarity of the explanation and for the technical difficulty of the contribution. (12 points).
+2, Use one of the metrics on your radar to find a single player in another league (not the Premier league), who you would recommend signing. Produce a top-10 list of players in this league for one of the metrics. On this basis, choose a player you would recommend and create a player radar for him. (3 points)
+3, By midnight Friday 30th September send your report (steps 1 and 2) to the other members of your group. On Monday the 3rd of October, you will each present a radar for your player chosen in stage 2 within your group. Your presentation should be no more than 2 minutes. After the presentations, you will have a group discussion comparing your choices. You should write contrasting your own and the other reports and make a final recommendation on this basis (participation in meeting 2 points; final report 3 points)
+The final report (deadline Wednesday 5th October) should be 4 pages: roughly 2 pages for part 1, 1 page for part 2, and 1 page for part 3.
+Submit a separate runnable piece of code (preferably in Python) which when put in the directory of the Wyscout data creates the radars. This code must be single file and only uses standard libraries (mplsoccer is fine) and should be runnable when put in the folder with Wyscout data.
+
+
+
+5:08
+https://www.youtube.com/watch?v=hRdoMWEvA2k
+YouTubeYouTube | Friends of Tracking
+Inter Milan Club, Player & Fitness 
+
+5:10
+https://www.youtube.com/watch?v=tC2z28MjNl0
+YouTubeYouTube | Friends of Tracking
+Presentation by the PSG group. 

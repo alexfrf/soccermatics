@@ -1,0 +1,21 @@
+This final project assignment is a group project. You will work within the groups you have formed during the course, but also break down in to sub-groups within those groups.
+In this assignment you are data scientists working at the football club your group have chosen. The club's footballing director has asked for a start of season reports on three aspects : club performance, set pieces and novel scouting metrics. It is summer 2021
+For this exercise you can use the combined event and Skillcorner data for the Premier League. This can be downloaded using the link to Vishu. Only those who have submitted assignment 2 may have access to the data. Please do not share with anyone esle.
+You are also recommended to use data from https://understat.com/league/EPL/2020Links to an external site.
+ and other sources for general xG statistics for the league. This can be very useful in (for example) simulating the league without having to use all event/tracking data. Although the tracking/event data is very useful, feel free to use other available data sources.
+The group submissions
+The three sub-assignments are:
+Club performance: Build a model to make a prediction of how your team will perform next season (2021-22) in the Premier League. You can decide on the form of the model, but the lecture on simulating football matches should be your starting point. Decide the basis for your model, simulate the league and in your report discuss likely scenarios for your club in the upcoming season. Simulate alternative scenarios. For example, what would happen in you had better attack or better defence? How much would you gain if you scored more from throw-ins or corners?
+Set pieces: Investigate where the clubs strengths and weaknesses are with free kicks, corners and throw-ins. Do we score less than we would expect from these situations? Then, can you use the tracking data to help improve some aspect of these set piece situations.
+Tracking data scouting: You should develop a new model, which utilises combined tracking and event data, that measures a quality of a player. There are lots of possibilities here. It could be simply speed the that they are running in different situations, it could be how much space they create (pitch control), it could be a passing model that includes tracking data, it could be a novel expected goal model...
+The sub-groups should work together to present a unified structure to the report. If it is defence that needs improving, then set pieces should concentrate on defending. The final report should have a common theme, which you should build around.
+Within each team you are free to help each other as much as you like and to collaborate to make the reports as good as possible. Please make sure you use slack channel in order to co-ordinate the work.
+Grading
+There are three graded components to the assignment:
+1, Presentation. This will be a 10-minute Zoom presentation of the approach you have taken to the problem and preliminary results. It should be non-technical. This is worth 4 points to the group as a whole. You decide yourself who (and how many of you present) but 10 minutes is strict. (4 points)
+2, Written report. This should consist of a six page non-technical report covering all three sub-groups (i.e. roughly two pages per question) along with a technical appendix (up to 12 pages, 4 per project) describing the models you used. You do not need to submit code. Please write the names of each person contributing to each sub-project, but this grade will be awarded collectively to the entire group (10 points)
+3, Individual report. Write a (at most) 800-word essay about the strength and weaknesses of your groups approach. This should consist of
+1, Outline your contribution to the group as a whole.
+2, Explain in your own words what you think is the most important part of your sub-groups work.
+3, Using examples (from your own work and elsewhere) discuss what modelling can and can’t do in the context of understanding football. (6 points)
+This should be submitted under Individual Report, which is a separate assignment. (edited) 

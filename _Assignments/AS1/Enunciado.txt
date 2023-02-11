@@ -1,0 +1,7 @@
+Assignment 1 is the following:
+1, Think of a player who you enjoyed watching at the recent Men's Euros 2020 or Women's Euros 2022.
+2, What actions did they perform that were important and why?
+3, Plot the actions and describe how the data supports or contradicts your own analysis.
+4, Collect some statistics on that player for the tournament and put them in context.
+5, Write a short text using at most two figures that illustrate your point.
+Submit your report to this group. Then find three other reports and write peer reviews
